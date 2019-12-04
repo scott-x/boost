@@ -12,3 +12,10 @@ sudo ln -sv boost_1_71_0/boost boost
 rm -rf boost_1_71_0.tar.gz
 echo "install success!"
 ```
+
+### uninstall
+
+```shell
+#unlink path
+unlink /usr/local/include/boost
+```
